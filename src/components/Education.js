@@ -11,7 +11,7 @@ function Education() {
                 </div>
                 <div className="flex-shrink-0"><span className="text-primary">2018 - Presente</span></div>
             </div>
-                <a className="btn btn-primary" style={{float: "right"}} href="plan_estudios">Descargar plan de estudios</a>
+                <a target="_blank" className="btn btn-primary" style={{float: "right"}} href="plan_estudios.pdf">Descargar plan de estudios</a>
             <div className="mb-5" ></div>
             {/* <div className="d-flex flex-column flex-md-row justify-content-between">
                 <div className="flex-grow-1">

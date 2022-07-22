@@ -1,11 +1,11 @@
-import * as Icon from './icons';
+import * as Icon from './Icons';
 
 function App() {
   return (
     <section className="resume-section" id="skills">
         <div className="resume-section-content">
-            <h2 className="mb-5">Skills</h2>
-            <div className="subheading mb-3">Programming Languages & Tools</div>
+            <h2 className="mb-5">Conocimientos</h2>
+            <div className="subheading mb-3">Lenguajes de programacion</div>
             <ul className="list-inline dev-icons">
                 
                 <li className="list-inline-item"><Icon.Html5/></li>
@@ -18,8 +18,10 @@ function App() {
                 <li className="list-inline-item"><Icon.Bootstrap/></li>
                 <li className="list-inline-item"><Icon.Java/></li>
                 <li className="list-inline-item"><Icon.MySQL/></li>
+                <li className="list-inline-item"><Icon.Kotlin/></li>
+                <li className="list-inline-item"><Icon.PostgreSQL/></li>
             </ul>
-            <div className="subheading mb-3">Workflow</div>
+            <div className="subheading mb-3">Otros conocimientos</div>
             <ul className="fa-ul mb-0">
                 <li>
                     <span className="fa-li"><i className="fas fa-check"></i></span>

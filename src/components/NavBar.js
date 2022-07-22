@@ -8,11 +8,11 @@ function Navbar() {
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span className="navbar-toggler-icon"></span></button>
         <div className="collapse navbar-collapse" id="navbarResponsive">
             <ul className="navbar-nav">
-                <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#about">About</a></li>
-                <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
-                <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#education">Education</a></li>
-                <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
-                <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#Works">Works</a></li>
+                <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#about">Sobre mi</a></li>
+                <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#experience">Experiencia</a></li>
+                <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#education">Educacion</a></li>
+                <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#skills">Conocimientos</a></li>
+                <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#Works">Trabajos</a></li>
             </ul>
         </div>
     </nav>
