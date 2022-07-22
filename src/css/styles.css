@@ -571,6 +571,7 @@ progress {
 }
 
 .list-inline-item {
+  width: 40px;
   display: inline-block;
 }
 .list-inline-item:not(:last-child) {
@@ -3031,12 +3032,12 @@ textarea.form-control-lg {
 }
 
 .btn-primary {
-  color: #000;
+  color: rgb(255, 255, 255);
   background-color: #bd5d38;
   border-color: #bd5d38;
 }
 .btn-primary:hover {
-  color: #000;
+  color: rgb(241, 241, 241);
   background-color: #c77556;
   border-color: #c46d4c;
 }

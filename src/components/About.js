@@ -1,3 +1,4 @@
+import * as Icon from 'react-bootstrap-icons';
 
 function About() {
   return (
@@ -12,10 +13,10 @@ function About() {
             </div>
             <p className="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
             <div className="social-icons">
-                <a className="social-icon" href="#!"><i className="fab fa-linkedin-in"></i></a>
-                <a className="social-icon" href="#!"><i className="fab fa-github"></i></a>
-                <a className="social-icon" href="#!"><i className="fab fa-twitter"></i></a>
-                <a className="social-icon" href="#!"><i className="fab fa-facebook-f"></i></a>
+                <a target='_blank' className="social-icon" href="https://www.linkedin.com/in/antonella-d-atri-0b8418197/!"><Icon.Linkedin /></a>
+                <a target='_blank' className="social-icon" href="https://github.com/AntonellaDatri"><Icon.Github /></a>
+                {/* <a className="social-icon" href="#!"><Icon.ArrowRight /><i className="fab fa-twitter"></i></a>
+                <a className="social-icon" href="#!"><Icon.ArrowRight /><i className="fab fa-facebook-f"></i></a> */}
             </div>
         </div>
     </section>
