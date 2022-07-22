@@ -1,4 +1,4 @@
-import * as Icon from './Icons';
+// import * as Icon from './Icons';
 
 function App() {
   return (
@@ -13,9 +13,9 @@ function App() {
                 <li className="list-inline-item"><Icon.Npm/></li>
                 <li className="list-inline-item"><Icon.React/></li>
                 <li className="list-inline-item"><Icon.Symfony/></li>
-                <li className="list-inline-item"><Icon.Spring/></li> */}
+                <li className="list-inline-item"><Icon.Spring/></li>
                 <li className="list-inline-item"><Icon.Bootstrap/></li>
-                {/* <li className="list-inline-item"><Icon.Java/></li>
+                <li className="list-inline-item"><Icon.Java/></li>
                 <li className="list-inline-item"><Icon.MySQL/></li>
                 <li className="list-inline-item"><Icon.Kotlin/></li>
                 <li className="list-inline-item"><Icon.PostgreSQL/></li> */}

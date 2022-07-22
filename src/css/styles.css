@@ -11434,3 +11434,15 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.buttonDemo{
+  width: 80%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.imagenDemo {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
