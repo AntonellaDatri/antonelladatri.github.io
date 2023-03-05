@@ -13,7 +13,7 @@ function About() {
             </div>
             <p className="lead mb-2">👋 Hola, soy Anto, una desarrolladora de software y estudiante de informática de la Universidad Nacional de Quilmes.</p>
             <p className="lead mb-2">💼 Actualmente participo en el desarrollo, mantenimiento y testing de soluciones IT para el mundo financiero.</p>
-            <p className="lead mb-2">🎓 Recientemente, me gradue de Tecnica en Programación Informática, pero sigo mis estudios de Licenciatura. Durante mis años universitarios fui parte del equipo de la materia Introducción a la programación como ayudante docente.</p>
+            <p className="lead mb-2">🎓 Recientemente, me gradue de Tecnica en Programación Informática, pero sigo mis estudios de Licenciatura. Durante mis primeros años universitarios fui parte del equipo de la materia Introducción a la programación como ayudante docente.</p>
 
             <div className="social-icons">
                 <a target='_blank' rel="noreferrer" className="social-icon " href="https://www.linkedin.com/in/antonella-d-atri-0b8418197/!"><BsLinkedin/></a>
