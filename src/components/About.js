@@ -1,4 +1,4 @@
-// import * as Icon from 'react-bootstrap-icons';
+import { BsGithub, BsLinkedin } from "react-icons/bs";
 
 function About() {
   return (
@@ -16,10 +16,10 @@ function About() {
             <p className="lead mb-2">🎓 Recientemente, me gradue de Tecnica en Programación Informática, pero sigo mis estudios de Licenciatura. Durante mis años universitarios fui parte del equipo de la materia Introducción a la programación como ayudante docente.</p>
 
             <div className="social-icons">
-                <a  className="social-icon " href="https://www.linkedin.com/in/antonella-d-atri-0b8418197/!"><i class="bi bi-linkedin"></i></a>
-                <a target='_blank' className="social-icon" href="https://github.com/AntonellaDatri"><i class="bi bi-github"></i></a>
-                {/* <a className="social-icon" href="#!"><Icon.ArrowRight /><i className="fab fa-twitter"></i></a>
-                <a className="social-icon" href="#!"><Icon.ArrowRight /><i className="fab fa-facebook-f"></i></a> */}
+                <a  className="social-icon " href="https://www.linkedin.com/in/antonella-d-atri-0b8418197/!"><BsGithub/></a>
+                <a target='_blank' className="social-icon" href="https://github.com/AntonellaDatri"><BsLinkedin/></a>
+                {/* <a className="social-icon" href="#!"><FaBootstrap/></a>
+                <a className="social-icon" href="#!"><FaBootstrap/></a> */}
             </div>
         </div>
     </section>

@@ -11452,3 +11452,63 @@ section.resume-section .resume-section-content {
   align-items: center;
   flex-direction: column;
 }
+
+
+.html-color{
+  color: #f16529;
+}
+
+.css-color{
+  color: #2965f1;
+}
+
+.js-color{
+  color: #f7df1e;
+}
+
+.npm-color{
+  color: #cc3534;
+}
+
+.node-color{
+  color: #68a063;
+}
+
+.react-color{
+  color: #61dbfb;
+}
+
+.spring-color{
+  color: #6cb33e;
+}
+
+.bootstrap-color{
+  color: #7909f7;
+}
+
+.java-color{
+  color: #5283a2;
+}
+
+.kotlin-color{
+  color: #f58614;
+}
+.mySQL-color{
+  color: #00618a;
+}
+.postgreSQL-color{
+  color: #2f6792;
+}
+
+.firebase-color{
+  color: #ffcb29;
+}
+
+.postman-color{
+  color: #fd6c35;
+}
+
+.skills-grid{
+  display: grid;
+  grid-template-columns: repeat(12, 100px);
+}
