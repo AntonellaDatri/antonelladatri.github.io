@@ -4,6 +4,14 @@ function App() {
         <div className="resume-section-content">
           <h2 className="mb-5">Works</h2>
           <div className="imagenDemo">
+            <img src="Mates4Ever.jpeg" width="20%" alt="Piedra Papel Tijera Lagarto Spock Demo"/>
+            <div className="mb-1"></div>
+            <div className="buttonDemo">
+              <a class="btn btn-dark" style={{width: "85%"}} href="https://github.com/aldiiicastro/mates4ever" role="button">Repo</a>
+            </div>
+          </div>
+          <div className="mb-5"></div>
+          <div className="imagenDemo">
             <img src="Api.png" width="80%" alt="Api Demo"/>
             <div className="mb-1"></div>
             <div className="buttonDemo">

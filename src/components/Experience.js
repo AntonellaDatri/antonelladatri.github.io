@@ -5,11 +5,19 @@ function Experience() {
             <h2 className="mb-5">Experiencia</h2>
             <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
                 <div className="flex-grow-1">
+                    <h3 className="mb-0">BackEnd Developer </h3>
+                    <div className="subheading mb-3">MERCAP </div>
+                    <p> Desarrollo, mantenimiento y testing de soluciones IT de productos financieros. </p>
+                </div>
+                <div className="flex-shrink-0"><span className="text-primary">Noviembre 2022 - Actualidad</span></div>
+            </div>
+            <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
+                <div className="flex-grow-1">
                     <h3 className="mb-0">Software Developer </h3>
                     <div className="subheading mb-3">Universidad Nacional Arturo Jauretche </div>
-                    <p>Creación, desarrollo y mantenimiento frontend y backend de sistemas web internos para el personal de la universidad. Entre mis tareas destaco el trato directo con el personal para el desarrollo del sistema. {/* Tengo experiencia en la interacción con APIs y Bases de Datos. */}</p>
+                    <p>Creación, desarrollo y mantenimiento frontend y backend de sistemas web internos para el personal de la universidad. Entre mis tareas destaco el trato directo con el personal para el desarrollo del sistema. </p>
                 </div>
-                <div className="flex-shrink-0"><span className="text-primary">Abril 2021 - Presente</span></div>
+                <div className="flex-shrink-0"><span className="text-primary">Abril 2021 - Noviembre 2022</span></div>
             </div>
             <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
                 <div className="flex-grow-1">

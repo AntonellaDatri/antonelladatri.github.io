@@ -6208,6 +6208,12 @@ textarea.form-control-lg {
     transform: rotate(360deg) /* rtl:ignore */;
   }
 }
+
+.spaceBetween {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
 .spinner-border {
   display: inline-block;
   width: 2rem;
