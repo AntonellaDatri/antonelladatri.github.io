@@ -2,7 +2,7 @@ function App() {
   return (
     <section className="resume-section" id="Works">
         <div className="resume-section-content">
-          <h2 className="mb-5">Works</h2>
+          <h2 className="mb-5">Trabajos</h2>
           <div className="imagenDemo">
             <img src="Mates4Ever.jpeg" width="20%" alt="Piedra Papel Tijera Lagarto Spock Demo"/>
             <div className="mb-1"></div>
